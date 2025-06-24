@@ -1,2 +1,1 @@
-# pydev
-all the python lessons
+<h>Syntax & Variables</h>
