@@ -48,10 +48,3 @@
 48.		Code Review & Refactor Final Project
 49.		Document & Upload to GitHub Portfolio
 50.		Career Path: Freelancing, Jobs, Open Source
-
-
-Hobby
-
-Then prints them in a sentence like:
-
-     "Hi, I'm John, 23 years old. I love blue and enjoy coding."
