@@ -1,80 +1,54 @@
-## ✅ 5. Variables in Python
+1.		Setup, Syntax & Variables
+2.		Data Types: Numbers, Strings, Booleans
+3.		Lists, Tuples & Sets
+4.		Dictionaries & Nested Data
+5.		Conditionals: if, elif, else
+6.		Loops: for, while, break, continue
+7.		Functions & Parameters
+8.		Scopes, global, nonlocal
+9.		String Manipulation & f-strings
+10.		File Handling: open(), read/write
+11.		Error Handling: try, except, finally
+12.		Object-Oriented Programming: Classes & Instances
+13.		Class Inheritance & super()
+14.		Special Methods (__str__, __init__, etc.)
+15.		Modules, import, Python Packages
+16.		Python Project Structure & Files
+17.		Virtual Environments & pip
+18.		Using Standard Libraries: os, pathlib, datetime
+19.		External Libraries: requests, json, csv
+20.		List Comprehensions & map, filter
+21.		Decorators & Context Managers
+22.		Logging & Debugging
+23.		Unit Testing with unittest
+24.		Command-Line Apps with argparse
+25.		Build: CLI To-Do List App
+26.		Build: File Organizer Script
+27.		Build: Weather CLI with API (requests)
+28.		Intro to GUI: tkinter or PySide6
+29.		Build: GUI Notes App
+30.		SQLite & SQLAlchemy Basics
+31.		Build: Notes App with DB Storage
+32.		Design Patterns: Factory, Singleton, etc.
+33.		Clean Code Practices (PEP8, refactoring)
+34.		Git & GitHub Basics
+35.		Version Control in Projects (branches, PRs)
+36.		Intro to Flask (Web Framework)
+37.		Build: Flask Hello World + Templates
+38.		Build: Simple REST API in Flask
+39.		FastAPI Basics: Async REST API
+40.		Build: Blog API with FastAPI
+41.		Frontend Basics: HTML, CSS (Quick)
+42.		Connecting Backend to Frontend
+43.		Asynchronous Programming: async, await
+44.		Packaging Apps with setuptools
+45.		CI/CD Basics: GitHub Actions & Linting
+46.		Build & Package a CLI Tool for PyPI
+47.		Build a Full App: Todo or Notes Web App
+48.		Code Review & Refactor Final Project
+49.		Document & Upload to GitHub Portfolio
+50.		Career Path: Freelancing, Jobs, Open Source
 
-
-```python
-name = "Alice"     # str
-age = 25           # int
-height = 5.9       # float
-is_cool = True     # bool
-
-print(name)
-print(age)
-print(height)
-print(is_cool)
-```
-
-## ✅ Explanation:
-
-<b>Strings</b> (str) store text.
-
-Integers (int) store whole numbers.
-
-Floats (float) store decimal numbers.
-
-Booleans (bool) store True or False.
-<br>
-<br>
-
-## <B> You can print multiple variables:</b>
-
-```python
-print(name, age, height, is_cool)
-
-```
-
-## ✅ 6. Naming Rules
-<b>
- ~ Use letters, numbers, and underscores (_)
-
-    ~ Cannot start with a number
-
-    ~ Use snake_case by convention: user_name, total_score
-</b>
-<br>
-<hr >
-<br>
-<br>
-
-> ## print values with additional text
-```python
-
-name = "Alice"
-age = 25    
-print("My name is ",name," and i am ",age," years old")
-
-```
-
-
-
-## ✅ Task 1:
-Create variables to store:
-
-Your name (string)
-
-Your age (integer)
-
-Your height (float)
-
-Whether you are a student (boolean)
-
-## ✅task 2:
-Write a script that stores your:
-
-Name
-
-Age
-
-Favorite color
 
 Hobby
 
